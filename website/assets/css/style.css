@@ -1,7 +1,15 @@
 body{
     background: white;
 }
+#tagline{
+    background-image: url(/website/assets/img/bg.jpg);
+    width: 100%;
+    height: 40vh;
+    margin-bottom: 4rem;
+    background-size: contain;
+    background-position: center;
+}
 img{
-height: 400px;
-width: 400px;
+height: 300px;
+width: 300px;
 }
