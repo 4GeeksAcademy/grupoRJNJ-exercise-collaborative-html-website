@@ -1,13 +1,22 @@
-body{
-    background: #BDBDBD;
+body {
+    background: white;
 }
-.tag-line{
+
+#tagline {
     background-image: url(/website/assets/img/bg.jpg);
+    height: 40vh;
+    margin-bottom: 4rem;
     background-size: cover;
-    background-position: center;
-    height: 50vh;
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-    align-items: center;
+    background-position: center bottom;
+    background-repeat: no-repeat;
+    padding-bottom: 7rem;
+}
+
+img {
+    height: 300px;
+    width: 300px;
+}
+
+.container-fluid {
+    padding: 0;
 }
