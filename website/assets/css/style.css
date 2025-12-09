@@ -2,5 +2,12 @@ body{
     background: #BDBDBD;
 }
 .tag-line{
-    background-image: ;
+    background-image: url(/website/assets/img/bg.jpg);
+    background-size: cover;
+    background-position: center;
+    height: 50vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
 }
